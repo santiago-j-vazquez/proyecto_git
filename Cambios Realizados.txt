@@ -1,0 +1,4 @@
+Tanto en el index como en los demas html realice las siguientes modificaciones:
+- Agregue keywords
+- Modifique el Tittle
+- Genere Descripcion.
